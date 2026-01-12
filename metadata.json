@@ -1,0 +1,5 @@
+{
+  "name": "EasyKhata - Merchant Ledger",
+  "description": "A simple, senior-friendly ledger for merchants to track customer bills and payments. Features automatic payment allocation and smart voice/text entry using Gemini AI.",
+  "requestFramePermissions": []
+}
